@@ -1,0 +1,20 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "Projeto criado com node JS no curso da DevClub com o professor Rodolfo. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "Junior Santos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
